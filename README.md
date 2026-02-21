@@ -23,4 +23,4 @@ The model was validated using **Leave-One-Out Cross-Validation (LOOCV)** to ensu
 - `/scripts`: The Python workflow (Feature Generation -> Training -> Prediction).
 
 ## 🚀 Scientific Impact
-In prospective screening, the model identified the novel series (**3A1, 3A2, 3A3**) as **Active** with high confidence scores (>87.8%). The feature importance analysis confirmed the activity is drivers.
+In prospective screening, the model identified the novel series (**3A1, 3A2, 3A3**) as **Active** with high confidence scores (>87.8%). The feature importance analysis confirmed the activity drivers.
