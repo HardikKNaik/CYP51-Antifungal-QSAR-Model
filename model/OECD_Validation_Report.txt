@@ -1,0 +1,9 @@
+--- OECD QSAR VALIDATION REPORT ---
+Parameters: {'depth': 3, 'c': 0.01, 'vote': 'soft'}
+1. Accuracy (Overall Power): 0.9143
+2. MCC (Robustness): 0.7485
+3. Sensitivity (Active Recall): 0.9630
+4. Specificity (Inactive Precision): 0.7500
+5. Precision: 0.9286
+
+Confusion Matrix: TN:6 FP:2 / FN:1 TP:26
